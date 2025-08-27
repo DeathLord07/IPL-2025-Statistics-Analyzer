@@ -311,7 +311,7 @@ This project uses real IPL 2025 statistics compiled from:
 
 ## License
 
-This project is for educational and analytical purposes. All IPL data rights belong to their respective owners.
+This project is for educational and analytical purposes.
 
 ---
 
